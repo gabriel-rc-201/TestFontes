@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/ValeSans-Regular.ttf",
+      "sha1": "120277ae464303b9622387aaac4ac71b4fb5f442"
+    },
+    {
+      "path": "assets/fonts/ValeSans-Semibold.ttf",
+      "sha1": "31391cfe0ec5400b810553409bf09c0266f7d42f"
+    }
+  ]
+}
