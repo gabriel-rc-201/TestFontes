@@ -6,8 +6,8 @@
  */
 
 import React from 'react';
-import {Provider as PaperProvider} from 'react-native-paper';
-import {Text, View} from 'react-native';
+import {Provider as PaperProvider, Text} from 'react-native-paper';
+import {View} from 'react-native';
 
 function App(): JSX.Element {
   return (
@@ -18,8 +18,8 @@ function App(): JSX.Element {
           alignItems: 'center',
           justifyContent: 'center',
         }}>
-        <Text>olá mundo!!</Text>
-        <Text>Gabriel gabriel</Text>
+        <Text variant="displayLarge">olá mundo!!</Text>
+        <Text variant="displaySmall">Gabriel gabriel</Text>
       </View>
     </PaperProvider>
   );
